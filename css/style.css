@@ -9,3 +9,12 @@ h1{
 p{
   color: gray
 }
+
+#logo{
+  position: relative;
+  left: 50%;
+  top: 50%;
+  margin-left: -100px;
+  margin-top: -100px;
+
+}
