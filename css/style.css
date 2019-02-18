@@ -2,15 +2,19 @@ body{
   background-color: #3B3B3B;
   font-family: 'Roboto Mono', monospace;
   text-align: center;
+
 }
 h1{
   color: white;
+  position: relative;
 }
 p{
   color: white;
+  position: relative;
 }
 a{
   color: #E95050;
+  position: relative;
 }
 
 #logo{
