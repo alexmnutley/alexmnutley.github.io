@@ -1,13 +1,16 @@
 body{
-  background-color: #A0A8B0;
+  background-color: black;
   font-family: 'Roboto Mono', monospace;
   text-align: center;
 }
 h1{
-  color: black;
+  color: white;
 }
 p{
-  color: black;
+  color: white;
+}
+a{
+  color: red;
 }
 
 #logo{
