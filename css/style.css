@@ -18,9 +18,9 @@ a{
 }
 
 #logo{
-  position: absolute;
-  top: 200%;
+  position: relative;
   margin-top: 100px;
+  top: 200%;
   height: 140px;
   width: 900px;}
 @media screen and (max-width: 1200px) {
@@ -37,12 +37,3 @@ a{
     height: 35px; }
 
 }
-
-
-#main-text{
-  position: absolute;
-  text-align: center;
-}
- @media screen and (max-height: 450px) {
-   #header-text {
-     top: 8%; } }
