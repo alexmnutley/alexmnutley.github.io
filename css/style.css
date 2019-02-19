@@ -18,7 +18,7 @@ a{
 }
 
 #logo{
-  position: relative;
+  position: absolute;
   top: 200%;
   margin-top: 100px;
   height: 140px;
@@ -43,6 +43,7 @@ a{
   position: absolute;
   text-align: center;
   width: 100%;
+  top: 20%;
   left: 0; }
  @media screen and (max-height: 450px) {
    #header-text {
