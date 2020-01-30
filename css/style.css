@@ -26,15 +26,15 @@ a{
 @media screen and (max-width: 1200px) {
   #logo {
     margin-top: 50px;
-    width: 450px;
-    height: 70px; }
+    width: 250px;
+    height: 94px; }
 
 }
 @media screen and (max-width: 600px) {
   #logo {
     margin-top: 50px;
-    width: 225px;
-    height: 35px; }
+    width: 125px;
+    height: 47px; }
 
 }
 
