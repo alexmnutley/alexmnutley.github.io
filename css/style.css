@@ -21,8 +21,8 @@ a{
   position: relative;
   margin-top: 100px;
   top: 200%;
-  height: 375px;
-  width: 1000px;}
+  height: 188px;
+  width: 500px;}
 @media screen and (max-width: 1200px) {
   #logo {
     margin-top: 50px;
