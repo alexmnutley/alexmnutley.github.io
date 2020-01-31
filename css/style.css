@@ -11,6 +11,7 @@ h1{
 }
 h2{
   color: white;
+
   position: relative;
 }
 p{
@@ -27,6 +28,7 @@ a{
   position:relative;
   text-align: left;
   font-size: 16px;
+  color: white;
 }
 #about-header{
   position:relative;
