@@ -1,6 +1,8 @@
 body{
   background-color: #3B3B3B;
   font-family: 'Roboto Mono', monospace;
+  margin-right: auto;
+  margin-right: auto;
 
 }
 h1{
@@ -9,18 +11,28 @@ h1{
 }
 h2{
   color: white;
-  
   position: relative;
 }
 p{
   color: white;
   position: relative;
-  text-align: left;
 }
 
 a{
   color: #E95050;
   position: relative;
+}
+
+#about{
+  position:relative;
+  text-align: left;
+  font-size: 16px;
+}
+#about-header{
+  position:relative;
+  text-align: left;
+  font-size: 20px;
+  color: #E95050;
 }
 
 #logo{
