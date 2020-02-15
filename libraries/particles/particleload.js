@@ -1,2 +1,3 @@
-/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-particlesJS.load('particles-js', 'libraries/particles/particleconfig.json');
+particlesJS.load('particles-js', 'particleconfig.json', function() {
+    console.log('particles.js loaded - callback');
+  });
