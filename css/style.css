@@ -56,6 +56,10 @@ nav{
   align-items: center;
   min-height: 8vh;
 }
+
+nav img{
+  z-index: 1000;
+}
 .content img{
   display: flex;
   z-index: inherit;
@@ -65,7 +69,6 @@ nav{
   color: #E95050;
   letter-spacing: 5px;
   font-size: 25px;
-  background-color: #3B3B3b;
   height:25%;
   width:25%;
 }
@@ -104,6 +107,14 @@ nav{
   margin: 5px;
 }
 
+footer{
+  position: absolute;
+  bottom: 2px;
+  align-items: center;
+  text-align: center;
+  right:2px;
+}
+
 
 
 @media screen and (max-width:768px){
@@ -131,7 +142,7 @@ nav{
     height: 92vh;
     top: 8vh;
     display:flex;
-    background-color: black;
+    background-color: #b6b6b6;
     flex-direction: column;
     align-items: center;
     width: 100%;
@@ -156,15 +167,15 @@ nav{
 
   nav{
     position: relative;
-    background-color: black;
+    background-color: #b6b6b6;
   }
 
   .logo{
-    background-color: black;
+    background-color: #b6b6b6;
   }
 
   .nav-links a{
-    background-color: black;
+    background-color: #b6b6b6;
   }
 
 
